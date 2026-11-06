@@ -1,0 +1,6 @@
+{
+  "name": "QuizMaster – Interactive Quiz Application",
+  "description": "A modern Flutter & Android-inspired Quiz Application featuring rich categories, live timers, score tracking, custom question creator, and persistent local storage leaderboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
